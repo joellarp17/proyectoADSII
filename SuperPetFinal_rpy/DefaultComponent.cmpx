@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 63dde0ff-ce8b-46df-88c1-1dd19cfa81df</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::5:13:32</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 7056ca98-0329-4217-8c4d-d195d0d00212</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">10</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID c736a15f-f190-434e-9f79-89a534cfaecf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Settings\UMLPerspectives\UMLPerspectives.sbs</_hfilename>
+							<_hname type="a">UMLPerspectives</_hname>
+							<_hid type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\..\..\proyecto\SuperPet\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hname type="a">BusinessModeling</_hname>
+							<_hid type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MCUN.sbsx</_hfilename>
+							<_hname type="a">MCUN</_hname>
+							<_hid type="a">GUID 348b5b44-1981-4e07-8d12-c8faa864274b</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MAN.sbsx</_hfilename>
+							<_hname type="a">MAN</_hname>
+							<_hid type="a">GUID 4727b6e1-698f-423a-9eda-6dd5226fb422</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MCU.sbsx</_hfilename>
+							<_hname type="a">MCU</_hname>
+							<_hid type="a">GUID c0e51dad-95b4-438f-988f-f2df42e95e6b</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Reutilizable.sbsx</_hfilename>
+							<_hsubsystem type="a">MCU</_hsubsystem>
+							<_hname type="a">Reutilizable</_hname>
+							<_hid type="a">GUID 555cbe89-4b02-46a2-b5f0-fab9c2c7a855</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+							<_hsubsystem type="a">MCU</_hsubsystem>
+							<_hname type="a">Seguridad</_hname>
+							<_hid type="a">GUID 78391fe3-4a11-42e3-a7e5-6371c08e9dd6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ConsultaMedica.sbsx</_hfilename>
+							<_hsubsystem type="a">MCU</_hsubsystem>
+							<_hname type="a">ConsultaMedica</_hname>
+							<_hid type="a">GUID c63bc9ba-d592-484f-9d16-1fc0e70c9df4</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PaqueteRequisitos.sbsx</_hfilename>
+							<_hname type="a">PaqueteRequisitos</_hname>
+							<_hid type="a">GUID c746bbfa-0494-4584-b761-4ebe445c033e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 5a5a2131-e5bb-47e2-badd-1d06c8ac181b</value>
+				<value>GUID 7056ca98-0329-4217-8c4d-d195d0d00212</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 5a5a2131-e5bb-47e2-badd-1d06c8ac181b</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::5:13:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::5:13:32</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 7056ca98-0329-4217-8c4d-d195d0d00212</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::5:13:32</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 6e53b648-abbe-43c7-bca8-a4657bad5eb0</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 6e53b648-abbe-43c7-bca8-a4657bad5eb0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::5:13:32</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
